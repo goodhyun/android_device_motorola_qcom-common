@@ -39,7 +39,7 @@ key 38    L
 key 39    SEMICOLON
 key 40    GRAVE
 key 41    APOSTROPHE
-key 42    SHIFT_LEFT
+key 42    CTRL_LEFT
 key 43    BACKSLASH
 key 44    Z
 key 45    X
@@ -55,7 +55,7 @@ key 54    SHIFT_RIGHT
 key 55    NUMPAD_MULTIPLY
 key 56    ALT_LEFT
 key 57    SPACE
-key 58    CAPS_LOCK
+key 58    SHIFT_LEFT
 key 59    F1
 key 60    F2
 key 61    F3
@@ -97,7 +97,7 @@ key 96    NUMPAD_ENTER
 key 97    CTRL_RIGHT
 key 98    NUMPAD_DIVIDE
 key 99    SYSRQ
-key 100   ALT_RIGHT
+key 100   SEARCH
 # key 101 "KEY_LINEFEED"
 key 102   MOVE_HOME
 key 103   DPAD_UP
@@ -225,7 +225,7 @@ key 217   SEARCH
 # key 225 "KEY_BRIGHTNESSUP"
 key 226   HEADSETHOOK
 
-key 232   DPAD_CENTER
+key 232   ALT_LEFT
 
 key 256   BUTTON_1
 key 257   BUTTON_2
